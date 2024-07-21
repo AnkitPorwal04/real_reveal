@@ -1,0 +1,25 @@
+<footer class="footer">
+    <div class="container">
+      <br>
+      <a href="{% url 'ml_app:home'%}">Home</a>
+      <a href="https://github.com/AnkitPorwal04/real_reveal" target="_blank">Github Link</a>
+      <br>
+      <center><span class="text-muted" >Copyright @ {%now 'Y'%}</span></center>
+    </div>
+  </footer>
+<style>
+  .footer {
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    color: white;
+    margin-top: 10px;
+    position: relative;
+  }
+
+  a {
+    text-align: center;
+    display: block;
+    color: #fff
+  }
+</style>
