@@ -5,7 +5,7 @@
 </a>
 
 ## Latest Update
-#### We have dockerised the [Django Application]([https://github.com/AnkitPorwal04/Real_Reveal/Django Application](https://github.com/AnkitPorwal04/real_reveal/tree/main/Django%20Application)) now you can spin up a container within seconds without worring about dependencies
+#### We have dockerised the [Django Application](https://github.com/AnkitPorwal04/real_reveal/tree/main/Django%20Application) now you can spin up a container within seconds without worring about dependencies
 
 
 ## 1. Introduction
