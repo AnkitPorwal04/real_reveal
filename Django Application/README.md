@@ -75,9 +75,3 @@ Please note that currently we have only pushed the image of 20 Frames model, If 
 ### Step 6: Run project
 
 `python manage.py runserver`
-
-## Demo 
-### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
-<p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
-</p>  
